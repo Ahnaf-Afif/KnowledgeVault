@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 /* This Is NavBar CSS */
 
 .navbar {
@@ -29,7 +35,7 @@
 
 .nav-div h3 {
   font-size: 16px;
-  font-weight: normal;
+  font-weight: medium;
 }
 
 .nav-button {
@@ -129,9 +135,9 @@
 
 .hero-second {
   font-size: 18px;
-  line-height: 24px;
+  line-height: 30px;
   color: #ffffff;
-  line-height: 24px;
+  margin-top: 16px;
 }
 
 .hero-button {
